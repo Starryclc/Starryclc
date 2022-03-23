@@ -1,4 +1,5 @@
-### Hi  👋
+ 业精于勤荒于嬉   
+ 行成于思毁于随 
 
 <!--
 **Starryclc/Starryclc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
